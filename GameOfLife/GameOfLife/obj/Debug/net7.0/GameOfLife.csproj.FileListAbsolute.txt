@@ -1,0 +1,14 @@
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.deps.json
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.runtimeconfig.json
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.dll
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.pdb
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.AssemblyInfoInputs.cache
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.AssemblyInfo.cs
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.dll
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/refint/GameOfLife.dll
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.pdb
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.genruntimeconfig.cache
+/Users/faysalsharif/RiderProjects/GameOfLife/GameOfLife/obj/Debug/net7.0/ref/GameOfLife.dll
